@@ -1,4 +1,4 @@
-### 🧠 Tipos de Datos según su Estructura
+### 🧠 Clasificación de los datos
 
 | **Tipo de Dato** | **Descripción** | **Ejemplos** | **Bases de Datos Comunes** |
 |------------------|------------------|--------------|-----------------------------|
